@@ -26,10 +26,10 @@
 <br><br>
 <h3 align="left">Live Projects : </h3>
 
-<a href="https://iamnkr67.github.io/ToDo-App/" target="blank" value="ToDo APP">
+<a href="https://iamnkr67.github.io/ToDo-App/" target="blank"> ToDO APP </a>
 
 
-
+<br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnkr67&show_icons=true&locale=en&layout=compact" alt="iamnkr67" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamnkr67&show_icons=true&locale=en" alt="iamnkr67" /></p>
