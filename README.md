@@ -26,8 +26,10 @@
 <br><br>
 <h3 align="left">Live Projects : </h3>
 
-<a href="https://iamnkr67.github.io/ToDo-App/" target="blank"> ToDO APP </a>
-<a href="https://github.com/iamnkr67/NodeJs_Realtime-Chat_Application" target="blank"> NodeJs RealTime Chat-App </a>
+<ol>
+<li><a href="https://iamnkr67.github.io/ToDo-App/" target="blank"> ToDO APP </a></li>
+<li><a href="https://github.com/iamnkr67/NodeJs_Realtime-Chat_Application" target="blank"> NodeJs RealTime Chat-App </a></li>
+</ol>
 
 
 <br><br>
