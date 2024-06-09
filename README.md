@@ -27,9 +27,9 @@
 <h3 align="left">Live Projects : </h3>
 
 <ol>
-<li><a href="https://iamnkr67.github.io/ToDo-App/" target="blank"> ToDO APP </a></li>
-  <li><a href="https://iamnkr67.github.io/Calculator/" target="blank"> Calculator </a> </li>
-<li><a href="https://github.com/iamnkr67/NodeJs_Realtime-Chat_Application" target="blank"> NodeJs RealTime Chat-App </a></li>
+<li><a href="https://iamnkr67.github.io/ToDo-App/" target="_blank"> ToDO APP </a></li>
+  <li><a href="https://iamnkr67.github.io/Calculator/" target="_blank"> Calculator </a> </li>
+<li><a href="https://github.com/iamnkr67/NodeJs_Realtime-Chat_Application" target="_blank"> NodeJs RealTime Chat-App </a></li>
 </ol>
 
 
