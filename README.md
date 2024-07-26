@@ -1,3 +1,8 @@
+  <p align="”center”">
+        <img width=”200" height=”200"
+        src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png"
+        alt=”my banner”>
+      </p>
 <div align="center"> <img src="https://github.com/iamnkr67/iamnkr67/blob/main/github-header-image.png"> </div>
 <h3 align="center">Passionate coder and lifelong learner on a quest to explore the realms of programming.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
