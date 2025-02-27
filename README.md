@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Web Development](https://github.com/iamnkr67/WebDev_Repo_BEG-ADV)
 
-- 🌱 I’m currently learning **Java programming, Full-stack Development...**
+- 🌱 I’m currently learning **Cloud Computing, CyberSecurity and looking forward for new tech stacks.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamnkr67](https://github.com/iamnkr67)
 
@@ -23,11 +23,12 @@
 <a href="https://www.hackerrank.com/profile/iamnkr67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@iamnkr67" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iamnkr67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamnkr67" height="30" width="40" /></a>
 <br><br>
-<h3 align="left">Live Projects : </h3>
+<h3 align="left">Live Projects: </h3>
 
 <ol>
 <li><a href="https://iamnkr67.github.io/ToDo-App/" target="_blank"> ToDO APP </a></li>
   <li><a href="https://iamnkr67.github.io/Calculator/" target="_blank"> Calculator </a> </li>
+  <li><a href="https://fresherwebsite.vercel.app/" target="_blank"> Fresher: A portal where students can plan their events.</a></li>
 <li><a href="https://github.com/iamnkr67/NodeJs_Realtime-Chat_Application" target="_blank"> NodeJs RealTime Chat-App </a></li>
 </ol>
 
