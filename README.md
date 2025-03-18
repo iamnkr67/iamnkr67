@@ -55,16 +55,14 @@
 
 ## 🔥 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnkr67&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnkr67&theme=tokyonight" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamnkr67&show_icons=true)
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamnkr67&show_icons=true&locale=en" alt="iamnkr67" /></p>
 </p>
 
-<p align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnkr67&layout=compact)
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnkr67&show_icons=true&locale=en&layout=compact" alt="iamnkr67" /></p>
 
 ---
 
