@@ -38,7 +38,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamnkr67&show_icons=true&locale=en" alt="iamnkr67" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnkr67&" alt="iamnkr67" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnkr67" alt="GitHub Streak Stats" />
+</p>
+
 
 
 
