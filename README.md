@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<div align="center">  
+<div align="center">
   <img src="https://github.com/iamnkr67/iamnkr67/blob/main/image.png" width="600" alt="iamnkr67 Banner">
 </div>
 
@@ -26,18 +26,18 @@
 ---
 
 ## 🌐 Connect With Me  
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/iamnkr67" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" title="LinkedIn" />
   </a>
   <a href="https://instagram.com/nitesh_shah67" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40" title="Instagram" />
   </a>
   <a href="https://twitter.com/iamnkr67" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" width="40" height="40" title="Twitter" />
   </a>
   <a href="https://medium.com/@iamnkr67" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="40" height="40" title="Medium" />
   </a>
   <a href="https://devniteshkumarshah.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -48,21 +48,33 @@
 
 ## 🚀 Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,bootstrap,tailwind,linux,aws,vercel,python" />
+  <a href="#" title="HTML5"><img src="https://skillicons.dev/icons?i=html" width="50" height="50"></a>
+  <a href="#" title="CSS3"><img src="https://skillicons.dev/icons?i=css" width="50" height="50"></a>
+  <a href="#" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="50" height="50"></a>
+  <a href="#" title="React"><img src="https://skillicons.dev/icons?i=react" width="50" height="50"></a>
+  <a href="#" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50"></a>
+  <a href="#" title="Express.js"><img src="https://skillicons.dev/icons?i=express" width="50" height="50"></a>
+  <a href="#" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"></a>
+  <a href="#" title="Git"><img src="https://skillicons.dev/icons?i=git" width="50" height="50"></a>
+  <a href="#" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="50" height="50"></a>
+  <a href="#" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50"></a>
+  <a href="#" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50"></a>
+  <a href="#" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="50" height="50"></a>
+  <a href="#" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="50" height="50"></a>
+  <a href="#" title="Python"><img src="https://skillicons.dev/icons?i=python" width="50" height="50"></a>
 </div>
 
 ---
 
 ## 🔥 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnkr67&theme=tokyonight" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnkr67&theme=tokyonight" width="48%" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamnkr67&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamnkr67&show_icons=true&locale=en" alt="iamnkr67" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnkr67&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnkr67&show_icons=true&locale=en&layout=compact" alt="iamnkr67" /></p>
 
 ---
 
