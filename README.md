@@ -56,7 +56,7 @@
 ## 🔥 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnkr67&theme=tokyonight" width="48%" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=iamnkr67&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=iamnkr67&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"/> -->
 </p>
 
 <p align="center">
