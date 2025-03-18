@@ -39,6 +39,9 @@
   <a href="https://medium.com/@iamnkr67" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+  <a href="https://devniteshkumarshah.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -52,12 +55,15 @@
 
 ## 🔥 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnkr67&theme=tokyonight" alt="Streak Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamnkr67&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnkr67&theme=tokyonight" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnkr67&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamnkr67&show_icons=true)
+</p>
+
+<p align="center">
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnkr67&layout=compact)
 </p>
 
 ---
