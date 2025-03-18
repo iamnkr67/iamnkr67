@@ -1,49 +1,86 @@
+<!-- Profile Header -->
+<div align="center">  
+  <img src="https://github.com/iamnkr67/iamnkr67/blob/main/image.png" width="600" alt="iamnkr67 Banner">
+</div>
 
-<div align="center"> <img src="https://github.com/iamnkr67/iamnkr67/blob/main/image.png"> </div>
-<!-- <h3 align="center">Passionate coder and lifelong learner on a quest to explore the realms of programming.</h3> -->
+<!-- Animated Coding GIF -->
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnkr67&label=Profile%20views&color=0e75b6&style=flat" alt="iamnkr67" /> </p>
-
-- 🔭 I’m currently working on [Web Development](https://github.com/iamnkr67/WebDev_Repo_BEG-ADV)
-
-- 🌱 I’m currently learning **Cloud Computing, CyberSecurity and looking forward for new tech stacks.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/iamnkr67](https://github.com/iamnkr67)
-
-- 📫 How to reach me **niteshkumaro7@hotmail.com, nitesh.guptaji76@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<!-- Profile Views Counter -->
 <p align="left">
-<a href="https://linkedin.com/in/iamnkr67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamnkr67" height="30" width="40" /></a>
-<a href="https://instagram.com/nitesh_shah67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitesh_shah67" height="30" width="40" /></a>
-<a href="https://twitter.com/iamnkr67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamnkr67" height="30" width="40" /></a>
-<a href="https://medium.com/@iamnkr67" target="blank"><img align="center" src="medium_logo_icon_189223.png" alt="@iamnkr67" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/iamnkr67" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="iamnkr67" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/iamnkr67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@iamnkr67" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iamnkr67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamnkr67" height="30" width="40" /></a>
-<br><br>
-<h3 align="left">Live Projects: </h3>
+  <img src="https://komarev.com/ghpvc/?username=iamnkr67&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<ol>
-<li><a href="https://iamnkr67.github.io/ToDo-App/" target="_blank"> ToDO APP </a></li>
-  <li><a href="https://iamnkr67.github.io/Calculator/" target="_blank"> Calculator </a> </li>
-  <li><a href="https://fresherwebsite.vercel.app/" target="_blank"> Fresher: A portal where students can plan their events.</a></li>
-<li><a href="https://github.com/iamnkr67/NodeJs_Realtime-Chat_Application" target="_blank"> NodeJs RealTime Chat-App (Currently app is unavailable)</a></li>
-</ol>
+---
 
+## 👋 About Me  
+🚀 Passionate coder & lifelong learner exploring the realms of programming.  
 
-<br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnkr67&show_icons=true&locale=en&layout=compact" alt="iamnkr67" /></p>
+- 🔭 **Currently Working On:** [Web Development](https://github.com/iamnkr67/WebDev_Repo_BEG-ADV)  
+- 🌱 **Learning:** Cloud Computing, CyberSecurity & exploring new tech stacks.  
+- 👨‍💻 **My Projects:** [GitHub Repositories](https://github.com/iamnkr67)  
+- 📫 **Contact Me:**  
+  📧 **niteshkumaro7@hotmail.com**  
+  📧 **nitesh.guptaji76@gmail.com**  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamnkr67&show_icons=true&locale=en" alt="iamnkr67" /></p>
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamnkr67&show_icons=true)
+## 🌐 Connect With Me  
+<p align="left">
+  <a href="https://linkedin.com/in/iamnkr67" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/nitesh_shah67" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/iamnkr67" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@iamnkr67" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
+---
 
+## 🚀 Tech Stack  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,bootstrap,tailwind,linux,aws,vercel,python" />
+</div>
 
+---
 
+## 🔥 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnkr67&theme=tokyonight" alt="Streak Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamnkr67&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnkr67&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
+---
 
+## 🎯 Live Projects  
+📌 **Click on the project names to check them out:**  
 
+### **🛠️ Web Apps**  
+🔹 [ToDo App](https://iamnkr67.github.io/ToDo-App/)  
+🔹 [Calculator](https://iamnkr67.github.io/Calculator/)  
+🔹 [Fresher: A Student Event Planner](https://fresherwebsite.vercel.app/)  
+
+### **💬 Chat Applications**  
+🔹 [NodeJs RealTime Chat-App](https://github.com/iamnkr67/NodeJs_Realtime-Chat_Application) *(Currently Unavailable)*  
+
+---
+
+## 🏆 Achievements & Badges  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamnkr67&theme=dracula&margin-w=15" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🎨 Fun Fact  
+> **"Any sufficiently advanced bug is indistinguishable from a feature."** 😆  
