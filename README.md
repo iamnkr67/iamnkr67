@@ -72,6 +72,7 @@
 🔹 [ToDo App](https://iamnkr67.github.io/ToDo-App/)  
 🔹 [Calculator](https://iamnkr67.github.io/Calculator/)  
 🔹 [Fresher: A Student Event Planner](https://fresherwebsite.vercel.app/)  
+🔹 [Search Movie](https://moviesearchview.vercel.app/)  
 
 ### **💬 Chat Applications**  
 🔹 [NodeJs RealTime Chat-App](https://github.com/iamnkr67/NodeJs_Realtime-Chat_Application) *(Currently Unavailable)*  
