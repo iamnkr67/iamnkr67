@@ -20,8 +20,8 @@
 - 🌱 **Learning:** Cloud Computing, CyberSecurity & exploring new tech stacks.  
 - 👨‍💻 **My Projects:** [GitHub Repositories](https://github.com/iamnkr67)  
 - 📫 **Contact Me:**  
-  📧 **niteshkumaro7@hotmail.com**  
-  📧 **nitesh.guptaji76@gmail.com**  
+  📧 **niteshthedev@gmail.com**  
+  
 
 ---
 
